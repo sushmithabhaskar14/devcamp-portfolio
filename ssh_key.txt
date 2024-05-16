@@ -1,0 +1,18 @@
+Your identification has been saved in /Users/v-sushmitha.acharya/.ssh/id_ed25519
+Your public key has been saved in /Users/v-sushmitha.acharya/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:xiBiFF8z5IFKYqQI2ko9uxeoy+GixW3VLCRt9756YsI sushmithabhaskar1495@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|o.o. o*          |
+|*+o..+ +         |
+|=++++ * .        |
+|.o..+= * .       |
+|.  o .o S .      |
+| ......o .       |
+| oo.oo    .      |
+|+.o.. E o ..     |
+|++     o.+.      |
++----[SHA256]-----+
+v-sushmitha.acharya@v-sushmitha DevcampPortfolio % eval "$(ssh-agent -s)"
+Agent pid 40510
